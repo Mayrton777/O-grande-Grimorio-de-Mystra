@@ -1,0 +1,23 @@
+# Ambientes Virtuais
+env/
+venv/
+ENV/
+
+# Python (Arquivos compilados e cache)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / Pacotes
+dist/
+build/
+*.egg-info/
+
+# Variáveis de ambiente
+.env
+
+# Arquivo do desafio original (Conforme solicitado)
+desafio_backend_o_grande_grimorio_de_mystra.py
+
+# Sistema (Linux/macOS)
+.DS_Store
